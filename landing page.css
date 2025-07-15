@@ -1,0 +1,157 @@
+.sadam {
+    background-image: url(movie2.jpg.png);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-height: 550px;
+
+}
+
+.first {
+    margin-left: 10%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.en {
+    height: 8px;
+    width: 10px;
+}
+
+.vector {
+    height: 5px;
+    width: 5px;
+    margin: -2px;
+}
+
+.ei {
+    height: 12px;
+    width: 12px;
+    margin-left: 3px;
+}
+
+h1 {
+    margin-top: 100px;
+    /* display: flex; */
+    /* align-content: center; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section-head {
+    color: black;
+    font-weight: 600;
+    margin-top: 50px;
+    color: #AAB0BC;
+    font-size: 16px;
+}
+
+.statement {
+    color: #343F52;
+    font-weight: 600;
+}
+
+.figure {
+    width: 558px;
+    height: 384px;
+
+}
+
+.statement {
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.sub-heading {
+    color: #343F52;
+    font-weight: 400;
+}
+
+.check {
+    background-color: #E6E8F7;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #cfd0d1;
+    border-radius: 100px;
+}
+
+.hexa {
+    width: 100px;
+    height: 100px;
+
+    left: 22%;
+    top: 20%;
+    z-index: -1;
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.video {
+    height: 300px;
+}
+
+.youl li {
+    font-size: 15px;
+}
+
+/* .youl {
+    margin-left: 30px;
+    margin-right: 30px;
+} */
+
+.proimg {
+    width: 300px;
+    height: auto;
+}
+
+.pronames {
+    color: black;
+    font-weight: 600;
+    color: #AAB0BC;
+    font-size: 10px;
+}
+.project{
+    width: 130px;
+    background-color: #747ED1;
+    color: white;
+
+}
+.trust{
+    font-weight: 600;
+    width: 80%;
+    color: #343F52;
+}
+.c-care{
+    font-weight: 500;
+    color: #60697B;
+    width: 70%;
+}
+.tag{
+    width: 120px;
+    height: auto;
+}
+.diff{
+    width: 400px;
+    height: auto;
+}
+/* .svgs{
+    width: 20px;
+    height: auto;
+} */
+ .numbers{
+    color: #747ED1;
+ }
+ .footlines{
+    width: 70%;
+    font-weight: lighter;
+ }
